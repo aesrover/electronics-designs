@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg"  version="1.2" baseProfile="tiny" x="0in" width="0.2in" y="0in" height="0.1in" viewBox="0 0 2000 1000">
+    <desc >
+        <referenceFile >generic_male_pin_header_2_100mil_bread.svg</referenceFile>
+    </desc>
+    <g  id="breadboard" gorn="0.1">
+        <polygon fill="#404040"  points="217.113,0 0,217.113 0,782.747 217.113,1000 782.747,1000 1000,782.747 1000,217.113 782.747,0 217.113,0"/>
+        <rect fill="none"  id="connector0pin" gorn="0.1.1" x="306.153" width="387.692" y="306.153" height="387.692"/>
+        <rect fill="none"  id="connector0terminal" gorn="0.1.2" x="349.77" width="300.597" y="342.964" height="314.210"/>
+        <rect fill="#8D8C8C"  x="340.463" width="319.211" y="340.463" height="319.211"/>
+        <rect fill="#8C8663"  x="417.974" width="164.189" y="417.974" height="164.189"/>
+        <polygon fill="#B8AF82"  points="340.463,340.463 417.974,417.974 582.025,417.974 659.674,340.463"/>
+        <polygon fill="#80795B"  points="582.025,582.025 582.025,417.974 659.674,340.463 659.674,659.674 &#x9;"/>
+        <polygon fill="#5E5B43"  points="417.974,582.025 582.025,582.025 659.674,659.674 340.463,659.674&#x9;&#x9;"/>
+        <polygon fill="#9A916C"  points="340.463,340.463 417.974,417.974 417.974,582.025 340.463,659.674 &#x9;"/>
+        <polygon fill="#404040"  points="1217.11,0 1000,217.113 1000,782.747 1217.11,1000 1782.75,1000 2000,782.747 2000,217.113 1782.75,0 1217.11,0"/>
+        <rect fill="none"  id="connector1pin" gorn="0.1.10" x="1306.15" width="387.692" y="306.153" height="387.692"/>
+        <rect fill="none"  id="connector1terminal" gorn="0.1.11" x="1349.77" width="300.597" y="342.964" height="314.210"/>
+        <rect fill="#8D8C8C"  x="1340.46" width="319.211" y="340.463" height="319.211"/>
+        <rect fill="#8C8663"  x="1417.97" width="164.189" y="417.974" height="164.189"/>
+        <polygon fill="#B8AF82"  points="1340.46,340.463 1417.97,417.974 1582.03,417.974 1659.67,340.463"/>
+        <polygon fill="#80795B"  points="1582.03,582.025 1582.03,417.974 1659.67,340.463 1659.67,659.674 &#x9;"/>
+        <polygon fill="#5E5B43"  points="1417.97,582.025 1582.03,582.025 1659.67,659.674 1340.46,659.674&#x9;&#x9;"/>
+        <polygon fill="#9A916C"  points="1340.46,340.463 1417.97,417.974 1417.97,582.025 1340.46,659.674 &#x9;"/>
+    </g>
+</svg>
